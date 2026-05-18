@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there, I'm Tunmii 👋
 
-<!--
-**wilsonadenuga/wilsonadenuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+senior software engineer by day, side-project hoarder by night, mechanical engineer in a past life (yes, I escaped).
 
-Here are some ideas to get you started:
+## what I actually do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- senior engineer in the UK public sector, building things I unfortunately can't put on the internet
+- co-founded **GDG Stoke-on-Trent**, where we somehow convinced 180+ people that Stoke is a tech hub
+- mentor at **Code Your Future** and **Women Coding Community**, helping devs at every stage who actually want to get good at this
+
+## currently cooking
+
+- **Natter**, a phone-based AI that checks in on elderly people so their busy kids can stop feeling guilty
+- a UK version of [CodeTV](https://www.youtube.com/@codetv-dev), developer-focused content rooted in the UK ecosystem
+- the usual graveyard of half-finished repos I keep telling myself I'll finish (lies)
+
+## tech I throw at problems
+
+`TypeScript` `Python` `NestJS` `FastAPI` `React` `Next.js` `React Native` `AWS` `Azure OpenAI` `Docker` `whatever the job actually needs, honestly`
+
+## the receipts
+
+- founding engineer at **Payday** (600k+ users, $5.1M raised, eventually acquired, I should've negotiated harder)
+- built and shipped **Rate Watch**, a cross-border payment rate aggregator that compares providers, so you actually know who's giving you a fair deal
+- built things at **Hälsa Hemma** in Sweden and contract through **Beyond IT** in Italy
+- maintain a couple of npm packages that real humans actually download (looking at you, `react-smart-conditional`)
+
+## things to know about me
+
+- mechanical engineer who saw the light
+- based in the UK
+- I think every developer should contribute to open source somehow, whether that's code, money, or just showing up to the conversation
+- I will die on the hill of never using em-dashes
+
+## let's chat
+
+if you want to talk AI, fintech, healthtech, security, or building communities that people actually show up to, I'm around.
+
+> "it works on my machine" is a personality, not an excuse
