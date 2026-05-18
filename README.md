@@ -32,6 +32,7 @@ senior software engineer by day, side-project hoarder by night, mechanical engin
 - based in the UK
 - I think every developer should contribute to open source somehow, whether that's code, money, or just showing up to the conversation
 - I'd like to think I'm decent at FIFA, my friends have opinions
+- I will die on the hill of never using em-dashes
 
 ## let's chat
 
