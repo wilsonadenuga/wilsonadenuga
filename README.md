@@ -20,17 +20,14 @@ senior software engineer by day, side-project hoarder by night, mechanical engin
 
 ## the receipts
 
-- founding engineer at **Payday** (600k+ users, $5.1M raised, eventually acquired, I should've negotiated harder)
-- built and shipped **Rate Watch**, a cross-border payment rate aggregator that compares providers, so you actually know who's giving you a fair deal
-- built things at **Hälsa Hemma** in Sweden and contract through **Beyond IT** in Italy
-- maintain a couple of npm packages that real humans actually download (looking at you, `react-smart-conditional`)
+- founding engineer at **Payday** (600k+ users, $5.1M raised, eventually acquired)
+- built things at **Hälsa Hemma** in Sweden and **Beyond IT** in Italy
 
 ## things to know about me
 
 - mechanical engineer who saw the light
 - based in the UK
 - I think every developer should contribute to open source somehow, whether that's code, money, or just showing up to the conversation
-- I will die on the hill of never using em-dashes
 
 ## let's chat
 
