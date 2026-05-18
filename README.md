@@ -5,7 +5,7 @@ senior software engineer by day, side-project hoarder by night, mechanical engin
 ## what I actually do
 
 - senior engineer in the UK public sector, building things I unfortunately can't put on the internet
-- co-founded **GDG Stoke-on-Trent**, where we somehow convinced 150+ people that Stoke is a tech hub
+- co-founded **GDG Stoke-on-Trent**, where we somehow convinced 180+ people that Stoke is a tech hub
 - mentor at **Code Your Future** and **Women Coding Community**, helping devs at every stage who actually want to get good at this
 
 ## currently cooking
