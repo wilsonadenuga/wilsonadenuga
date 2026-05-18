@@ -24,7 +24,6 @@ senior software engineer by day, side-project hoarder by night, mechanical engin
 - founding engineer at **Reporta Insights**, a fraud intelligence platform now used by 50+ Nigerian financial institutions to combat digital financial crime
 - built and shipped **Rate Watch**, a cross-border payment rate aggregator that compares providers so you actually know who's giving you a fair deal
 - shipped software across Africa and Europe, including stints at **Hälsa Hemma** in Sweden and **Beyond IT** in Italy
-- maintain a couple of npm packages that real humans actually download (looking at you, `react-smart-conditional`)
 
 ## things to know about me
 
@@ -32,7 +31,6 @@ senior software engineer by day, side-project hoarder by night, mechanical engin
 - based in the UK
 - I think every developer should contribute to open source somehow, whether that's code, money, or just showing up to the conversation
 - I'd like to think I'm decent at FIFA, my friends have opinions
-- I will die on the hill of never using em-dashes
 
 ## let's chat
 
