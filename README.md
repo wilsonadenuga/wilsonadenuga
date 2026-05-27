@@ -12,7 +12,6 @@ senior software engineer by day, side-project hoarder by night, mechanical engin
 
 - **Natter**, a phone-based AI welfare platform tackling elderly loneliness and unmonitored decline. It calls, holds real conversations, picks up on warning signs, and alerts family when something's off
 - a UK version of [CodeTV](https://www.youtube.com/@codetv-dev), developer-focused content rooted in the UK ecosystem
-- the usual graveyard of half-finished repos I keep telling myself I'll finish (lies)
 
 ## tech I throw at problems
 
